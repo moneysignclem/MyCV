@@ -1,0 +1,16 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 2rem;
+  line-height: 1.6;
+  background: #f4f4f4;
+  color: #333;
+}
+h1, h2 {
+  color: #005a9c;
+}
+header, section {
+  background: white;
+  padding: 1rem;
+  margin-bottom: 1rem;
+  border-radius: 10px;
+}
